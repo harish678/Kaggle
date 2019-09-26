@@ -23,7 +23,9 @@ Please feel free to reach out to get further information about projects.
 Food-101 is a challenging vision problem, but everyone can relate to it.  Recent SoTA is ~80% top-1, 90% top-5.  These approaches rely on lots of TTA, large networks and  even novel architectures.
 
 **Dataset**
+
 Data set of 101 food categories, with 101'000 images. For each class, 250 manually reviewed test images are provided as well as 750 training images. On purpose, the training images were not cleaned, and thus still contain some amount of noise. This comes mostly in the form of intense colors and sometimes wrong labels. All images were rescaled to have a maximum side length of 512 pixels.
 
 **Notebook Link**
+
 [Link](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb)

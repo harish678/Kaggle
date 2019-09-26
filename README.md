@@ -14,7 +14,7 @@ Please feel free to reach out to get further information about projects.
 
 
 
-(#Food-101)
+
 #### Food-101
 ---
 

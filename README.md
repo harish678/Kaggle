@@ -11,18 +11,18 @@ Please feel free to reach out to get further information about projects.
 |-|-|-|-|
 |[Food-101](#Food-101)|`CNN`, `Deep Learning`|`fast.Ai`|<p>[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb) <br> [Kaggle](https://www.kaggle.com/harishvutukuri/food-101)</p>|
 |[Twitter Sentiment Analysis](#Twitter-Sentiment-Analysis)|`CNN`, `Deep Learning`, `NLP`|`fast.Ai`, `wordcloud`, `nltk`|<p>[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/ulmfit-sentiment.ipynb) <br> [Kaggle](https://www.kaggle.com/harishvutukuri/ulmfit-sentiment)</p>|
-|[Iris Species Classification](#Iris-Species-Classification) :beginner:|`Machine Learning`, `Classification`|`sklearn`, `xgboost`|<p>[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/1.%20Iris%20Data/Iris.ipynb)<br>[Kaggle](https://www.kaggle.com/harishvutukuri/iris-data)|
-|[Loan Prediction](#Loan-Prediction) *|`Machine Learning`, `Classification`|`sklearn`, `xgboost`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/2.%20Loan%20Prediction/Loan%20Prediction.ipynb)|
-|[BigMart Sales Data](#BigMart-Sales-Data) *|`Machine Learning`, `Regression`|`sklearn`, `xgboost`|<p>[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/3.%20Bigmart%20Sales/Bigmart%20Sales.ipynb) <br> [Kaggle](https://www.kaggle.com/harishvutukuri/bigmart-sales)</p>|
-|[Boston Housing](#Boston-Housing) *|`Machine Learning`, `Regression`|`sklearn`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/4.%20Boston%20Housing/Boston%20Housing.ipynb)|
-|[Time Series Analysis](#Time-Series-Analysis) *|`Machine Learning`, `Time Series`|`sklearn`, `statsmodels`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/5.%20Time%20Series%20Analysis/TSA.ipynb)|
-|[Wine Quality Prediction](#Wine-Quality-Prediction) *|`Machine Learning`, `Classification`|`sklearn`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/6.%20Wine%20Quality%20Prediction/)<br>[Kaggle](https://www.kaggle.com/harishvutukuri/red-wine-quality/)|
-|[Turkiye Student Evaluation](#Turkiye-Student-Evaluation) *|`Machine Learning`, `Clustering`|`sklearn`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/7.%20Turkiye%20Student%20Evaluation/Turkiye%20Student%20Evaluation.ipynb)<br>[Kaggle](https://www.kaggle.com/harishvutukuri/turkiye-student-evaluation)
-|[Air Passengers](#Air-Passengers) *|`Machine Learning`, `Time Series`|`sklearn`, `statsmodel`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/8.%20Air%20Passengers/Air%20Passengers.ipynb)<br>[Kaggle](https://www.kaggle.com/harishvutukuri/air-passengers-time-forecasting)|
+|[Iris Species Classification](#Iris-Species-Classification) <sup>:beginner:</sup>|`Machine Learning`, `Classification`|`sklearn`, `xgboost`|<p>[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/1.%20Iris%20Data/Iris.ipynb)<br>[Kaggle](https://www.kaggle.com/harishvutukuri/iris-data)|
+|[Loan Prediction](#Loan-Prediction) <sup>:beginner:</sup>|`Machine Learning`, `Classification`|`sklearn`, `xgboost`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/2.%20Loan%20Prediction/Loan%20Prediction.ipynb)|
+|[BigMart Sales Data](#BigMart-Sales-Data) <sup>:beginner:</sup>|`Machine Learning`, `Regression`|`sklearn`, `xgboost`|<p>[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/3.%20Bigmart%20Sales/Bigmart%20Sales.ipynb) <br> [Kaggle](https://www.kaggle.com/harishvutukuri/bigmart-sales)</p>|
+|[Boston Housing](#Boston-Housing) <sup>:beginner:</sup>|`Machine Learning`, `Regression`|`sklearn`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/4.%20Boston%20Housing/Boston%20Housing.ipynb)|
+|[Time Series Analysis](#Time-Series-Analysis) <sup>:beginner:</sup>|`Machine Learning`, `Time Series`|`sklearn`, `statsmodels`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/5.%20Time%20Series%20Analysis/TSA.ipynb)|
+|[Wine Quality Prediction](#Wine-Quality-Prediction) <sup>:beginner:</sup>|`Machine Learning`, `Classification`|`sklearn`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/6.%20Wine%20Quality%20Prediction/)<br>[Kaggle](https://www.kaggle.com/harishvutukuri/red-wine-quality/)|
+|[Turkiye Student Evaluation](#Turkiye-Student-Evaluation) <sup>:beginner:</sup>|`Machine Learning`, `Clustering`|`sklearn`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/7.%20Turkiye%20Student%20Evaluation/Turkiye%20Student%20Evaluation.ipynb)<br>[Kaggle](https://www.kaggle.com/harishvutukuri/turkiye-student-evaluation)
+|[Air Passengers](#Air-Passengers) <sup>:beginner:</sup>|`Machine Learning`, `Time Series`|`sklearn`, `statsmodel`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/Beginner%20Level/8.%20Air%20Passengers/Air%20Passengers.ipynb)<br>[Kaggle](https://www.kaggle.com/harishvutukuri/air-passengers-time-forecasting)|
 
-    * :- Beginner Level Challenges
+   :beginner: :- Beginner Level Challenges
 
-:beginner:
+
 
 ### Food-101
 ---

@@ -9,9 +9,10 @@ Please feel free to reach out to get further information about projects.
 
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
-|[Food-101](#Food-101)|`CNN`, `Deep Learning`|`fast.Ai`|[Link](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb)|
-
-
+|[Food-101](#Food-101)|`CNN`, `Deep Learning`|`fast.Ai`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb)
+[Kaggle](https://www.kaggle.com/harishvutukuri/food-101)|
+|[Twitter Sentiment Analysis](#Twitter Sentiment Analysis)|`CNN`, `Deep Learning`, `NLP`|`fast.Ai`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/ulmfit-sentiment.ipynb)
+[Kaggle](https://www.kaggle.com/harishvutukuri/ulmfit-sentiment)|
 
 
 
@@ -28,4 +29,28 @@ Data set of 101 food categories, with 101'000 images. For each class, 250 manual
 
 **Notebook Link**
 
-[Link](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb)
+[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb)
+[Kaggle](https://www.kaggle.com/harishvutukuri/food-101)
+
+#### Twitter Sentiment Analysis
+---
+
+**Problem**
+
+A sentiment analysis job about the problems of each major U.S. airline and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as “late flight” or “rude service”).
+
+**Data Set**
+
+This data originally came from Crowdflower's Data for Everyone library. Data contains whether the sentiment of the tweets in this set was positive, neutral, or negative for six US airlines:
+
+1. American
+2. Delta
+3. SouthWest
+4. United
+5. US Airways
+6. Virgin America
+
+**Notebook Link**
+
+[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/ulmfit-sentiment.ipynb)
+[Kaggle](https://www.kaggle.com/harishvutukuri/ulmfit-sentiment)

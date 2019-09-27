@@ -9,10 +9,10 @@ Please feel free to reach out to get further information about projects.
 
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
-|[Food-101](#Food-101)|`CNN`, `Deep Learning`|`fast.Ai`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb)
-[Kaggle](https://www.kaggle.com/harishvutukuri/food-101)|
-|[Twitter Sentiment Analysis](#Twitter Sentiment Analysis)|`CNN`, `Deep Learning`, `NLP`|`fast.Ai`|[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/ulmfit-sentiment.ipynb)
-[Kaggle](https://www.kaggle.com/harishvutukuri/ulmfit-sentiment)|
+|[Food-101](#Food-101)|`CNN`, `Deep Learning`|`fast.Ai`|<p>[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb) <br>
+[Kaggle](https://www.kaggle.com/harishvutukuri/food-101)</p>|
+|[Twitter Sentiment Analysis](#Twitter%20Sentiment%20Analysis)|`CNN`, `Deep Learning`, `NLP`|`fast.Ai`|<p>[GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/ulmfit-sentiment.ipynb) <br>
+[Kaggle](https://www.kaggle.com/harishvutukuri/ulmfit-sentiment)</p>|
 
 
 

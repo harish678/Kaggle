@@ -28,6 +28,7 @@ Data set of 101 food categories, with 101'000 images. For each class, 250 manual
 **Notebook Link**
 
 [GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/food-101.ipynb)
+
 [Kaggle](https://www.kaggle.com/harishvutukuri/food-101)
 
 #### Twitter Sentiment Analysis
@@ -51,4 +52,5 @@ This data originally came from Crowdflower's Data for Everyone library. Data con
 **Notebook Link**
 
 [GitHub](https://github.com/harish678/Machine-Learning/blob/master/fellowship.Ai%20Challenges/ulmfit-sentiment.ipynb)
+
 [Kaggle](https://www.kaggle.com/harishvutukuri/ulmfit-sentiment)
